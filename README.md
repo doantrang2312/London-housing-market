@@ -7,7 +7,7 @@ This project aims to analyze the evolution of house prices in London from 1995 t
 The project uses data downloaded from the London Data Store on monthly average prices, sales volume, and house price index, yearly earnings, jobs, jobs density, dwellings, dwelling density, recycling rate, and well-being indicators such as happiness, life satisfaction, worthwhile, anxiety, etc. The CSV files were uploaded to Google Drive, and the data was accessed and analyzed using Google Colab.
 
 ## Usage
-The project is for read-only purposes and aims to showcase the author's data analysis and visualization skills. The Google Collab Notebook used in the project can be viewed directly on GitHub, and the data sources used in the project are linked in the notebook.
+The Google Collab Notebook used in the project can be viewed directly on GitHub, and the data sources used in the project are linked in the notebook.
 
 ## Acknowledgments
 This project was inspired by Sidney Trengove's project, who also used data from the London Data Store, but analyzed the data differently using different tools.
